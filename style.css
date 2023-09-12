@@ -5,3 +5,10 @@ h1 {
 p {
     color: orange;
 }
+
+h3 {
+    font-family: Verdana;
+    font-size: 58px;
+
+    text-align: center;
+}
